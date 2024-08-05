@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arya Putra</h1>
 <h3 align="center">A passionate Frontend Developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="image https://github.com/user-attachments/assets/6f7c7b89-b857-420b-a658-6dabe0dcc781
-">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbod869&label=Profile%20views&color=0e75b6&style=flat" alt="vbod869" /> </p>
 
